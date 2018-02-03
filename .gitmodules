@@ -1,3 +1,6 @@
 [submodule "CParser"]
 	path = CParser
 	url = https://github.com/programmatix/CParser
+[submodule "CParserWebDemo"]
+	path = CParserWebDemo
+	url = https://github.com/programmatix/CParserWebDemo
